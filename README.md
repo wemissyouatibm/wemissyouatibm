@@ -1,4 +1,6 @@
-### Hi there 👋
+### Please read this wiki📫 to see how much we miss you @ IBM !
+https://github.com/wemissyouatibm/wemissyouatibm/wiki
+
 
 <!--
 **wemissyouatibm/wemissyouatibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
